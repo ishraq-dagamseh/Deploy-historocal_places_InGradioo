@@ -8,4 +8,5 @@ In this project we appied this steps:
 4. Evaluate the model performance using learning curves.
 5. Build gradio App using Hugging face space.
 6. Now the App is Ready to use.
+ And the final presentation available on: https://prezi.com/view/qp8u0XCsUfixMslk5ws6/
    
