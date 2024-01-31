@@ -136,7 +136,7 @@ def evaluate_model(model, X_test, y_test):
         file.write(f'Test loss: {test_loss}\n')
         file.write(f'Test accuracy: {test_accuracy}\n')
 
-def save_model(model, save_path='./Models/VGG16/VGG16_weights.h5'):
+def save_model(model, save_path='./Models/VGG16/VGG16.h5'):
     """
     Save the trained model weights.
 
@@ -144,7 +144,7 @@ def save_model(model, save_path='./Models/VGG16/VGG16_weights.h5'):
         model (Sequential): Trained Keras model.
         save_path (str): Path to save the model weights.
     """
-    model.save_weights(save_path)
+    model.save(save_path)
     # print(f"Model weights saved to {save_path}")
 
 def plot_history(history, save_path=None):
