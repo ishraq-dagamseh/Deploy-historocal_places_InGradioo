@@ -9,6 +9,7 @@ In this project we applied this steps:
 4. Evaluate the model performance using learning curves.
 5. Build gradio App using Hugging face space.
 6. Now the App is Ready to use.
-7. And the final presentation available on: https://prezi.com/view/qp8u0XCsUfixMslk5ws6/
+7. You can try the App from this link: https://huggingface.co/spaces/IshraqTariq92/Smart_Tour_Guide
+8. And the final presentation available on: https://prezi.com/view/qp8u0XCsUfixMslk5ws6/
    
 
